@@ -1,6 +1,6 @@
 # THE FUNKIN REMNANTS CREW
 
-This is the Github page for The Funkin' Remnants Crew!
+This is the GitHub page for The Funkin' Remnants Crew!
 
 If for some reason you don't know what Funkin' Remnants actually is, we started out as a gimmick account on Twitter that's mostly dedicated to archiving old content for [Friday Night Funkin'](https://github.com/FunkinCrew/funkin)!
 
